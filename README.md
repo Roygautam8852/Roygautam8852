@@ -382,10 +382,6 @@ Algorithms      █████▌               35
 
 <br/>
 
-<img src="https://ghchart.rshah.org/2ea043/Roygautam8852" width="100%" alt="Contribution Calendar"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Roygautam8852&query=$.followers&label=%F0%9F%91%A5%20Followers&style=for-the-badge&color=238636&labelColor=161b22"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Roygautam8852&query=$.public_repos&label=%F0%9F%93%A6%20Public%20Repos&style=for-the-badge&color=8957e5&labelColor=161b22"/>
 <img src="https://img.shields.io/github/stars/Roygautam8852?label=%E2%AD%90%20Stars%20Earned&style=for-the-badge&color=e3b341&labelColor=161b22"/>
