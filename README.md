@@ -382,11 +382,16 @@ Algorithms      █████▌               35
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Roygautam8852&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+<img src="https://ghchart.rshah.org/2ea043/Roygautam8852" width="100%" alt="Contribution Calendar"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Roygautam8852&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Roygautam8852&query=$.followers&label=%F0%9F%91%A5%20Followers&style=for-the-badge&color=238636&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Roygautam8852&query=$.public_repos&label=%F0%9F%93%A6%20Public%20Repos&style=for-the-badge&color=8957e5&labelColor=161b22"/>
+<img src="https://img.shields.io/github/stars/Roygautam8852?label=%E2%AD%90%20Stars%20Earned&style=for-the-badge&color=e3b341&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%20Problems%20Solved-524-1f6feb?style=for-the-badge&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/%F0%9F%94%A5%20Max%20Streak-33%20Days-da3633?style=for-the-badge&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%96%EF%B8%8F%20LeetCode-100%20Days%20Badge-FFA116?style=for-the-badge&labelColor=161b22"/>
 
 <br/><br/>
 
