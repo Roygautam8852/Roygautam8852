@@ -20,7 +20,7 @@
 <a href="mailto:gautamkumar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/gautamkumar80004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://codolio.com/profile/gautamkumar8252"><img src="https://img.shields.io/badge/Codolio-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://github.com/Roygautam8852/Personal_Website"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://endearing-lolly-094b15.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
 </div>
 
@@ -453,7 +453,7 @@ flowchart LR
 <a href="mailto:gautamkumar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/gautamkumar80004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://codolio.com/profile/gautamkumar8252"><img src="https://img.shields.io/badge/Codolio-FF8C00?style=for-the-badge"/></a>
-<a href="https://github.com/Roygautam8852/Personal_Website"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://endearing-lolly-094b15.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
 <br/><br/>
 
