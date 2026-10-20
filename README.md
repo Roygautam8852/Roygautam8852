@@ -1,18 +1,26 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Gautam%20Kumar&fontColor=ffffff&fontSize=62&fontAlignY=36&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20GenAI%20%7C%20Full%20Stack%20%7C%20DevOps&descAlignY=58&descSize=18" alt="Gautam Kumar" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F2027,50:203A43,100:2C5364&text=Gautam%20Kumar&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=twinkling&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20GenAI%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20DevOps&descAlignY=60&descSize=17" alt="Gautam Kumar" width="100%"/>
 
 <a href="https://github.com/Roygautam8852">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=760&height=50&lines=Hi+%F0%9F%91%8B+I'm+Gautam+Kumar;B.Tech+CSE+%40+Lovely+Professional+University;Data+Science+%26+Machine+Learning+Enthusiast;Building+RAG+%2B+LLM+Apps+with+Vector+Databases;Full+Stack+%28MERN%29+%7C+DevOps+%7C+Big+Data;Code.+Learn.+Build.+Improve." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=720&height=45&lines=Hi+%F0%9F%91%8B+I'm+Gautam+Kumar;B.Tech+CSE+%40+Lovely+Professional+University;Data+Science+%26+Machine+Learning;Building+RAG+%2B+LLM+Apps+with+Vector+Databases;Full+Stack+(MERN)+%C2%B7+DevOps+%C2%B7+Big+Data;Code.+Learn.+Build.+Improve." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Roygautam8852&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Roygautam8852?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Roygautam8852?label=Stars&style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Roygautam8852&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=2ea44f" alt="Repos"/>
+<img src="https://hits.sh/github.com/Roygautam8852.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6&labelColor=161b22" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Roygautam8852?label=Followers&style=for-the-badge&logo=github&color=238636&labelColor=161b22" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Roygautam8852?label=Stars&style=for-the-badge&logo=github&color=e3b341&labelColor=161b22" alt="Stars"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Roygautam8852&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=8957e5&labelColor=161b22" alt="Repos"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/gautam-kumar-roy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gautamkumar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/gautamkumar80004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codolio.com/profile/gautamkumar8252"><img src="https://img.shields.io/badge/Codolio-FF8C00?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://github.com/Roygautam8852/Personal_Website"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
 </div>
 
@@ -20,29 +28,32 @@
 
 ## 👨‍💻 About Me
 
-I'm **Gautam Kumar**, a **B.Tech Computer Science and Engineering** student at **Lovely Professional University (LPU)**.
+I'm **Gautam Kumar**, a **B.Tech Computer Science and Engineering** student at **Lovely Professional University (LPU)**, with **Data Science** as my major and **DevOps** as my minor.
 
-🎯 **Major:** Data Science &nbsp;&nbsp; ⚙️ **Minor:** DevOps
+I have also learned the **MERN Stack** through my **PEP program** and have built projects across **Web Development, Data Science, Machine Learning, Generative AI, Data Analytics, Power BI, Big Data, DevOps, Cloud Deployment, Backend Development, and DSA**. I keep experimenting, learning, and building practical projects on GitHub.
 
-I have also learned the **MERN Stack** through my **PEP program** and have built projects across **Web Development, Data Science, Machine Learning, Generative AI, Data Analytics, Power BI, Big Data, DevOps, Cloud Deployment, Backend Development, and DSA**.
+```js
+const gautam = {
+  role: "B.Tech CSE Student @ Lovely Professional University",
+  major: "Data Science",
+  minor: "DevOps",
+  focus: ["Machine Learning", "GenAI / RAG", "Full Stack (MERN)", "DevOps", "Big Data"],
+  currentlyBuilding: "DocuMind: RAG-based document intelligence",
+  problemsSolved: "520+ across LeetCode, GFG, CodeChef, Codeforces",
+  goal: "Build production-grade AI + Data products"
+};
+```
 
-I keep **experimenting, learning, and building practical projects** on GitHub.
+> [!TIP]
+> 🔥 **Currently building:** [DocuMind](https://github.com/Roygautam8852/Documind-), a RAG app with hybrid retrieval (vector search + BM25), reranking and citation-grounded answers.
 
-> 🔥 **Currently building:** [DocuMind](https://github.com/Roygautam8852/Documind-), a RAG-based document intelligence app with hybrid retrieval (vector search + BM25), reranking and citation-grounded answers.
+<div align="center">
 
-### 🔎 Quick Overview
+| 🎓 Degree | 🏫 University | 📊 Major | ⚙️ Minor | 📈 CGPA |
+|:---:|:---:|:---:|:---:|:---:|
+| B.Tech CSE | Lovely Professional University | Data Science | DevOps | 8.03 |
 
-| | | |
-|---|---|---|
-| 🎓 **Degree** | B.Tech Computer Science & Engineering | ![CGPA](https://img.shields.io/badge/CGPA-8.03-success?style=flat-square) |
-| 🏫 **University** | Lovely Professional University | ![LPU](https://img.shields.io/badge/LPU-Phagwara-orange?style=flat-square) |
-| 📊 **Major** | Data Science | |
-| ⚙️ **Minor** | DevOps | |
-| 📦 **Public Repositories** | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Roygautam8852&query=$.public_repos&label=&style=flat-square&color=2ea44f) | |
-| ⭐ **GitHub Stars** | ![Stars](https://img.shields.io/github/stars/Roygautam8852?label=&style=flat-square&color=yellow) | |
-| 👥 **Followers** | ![Followers](https://img.shields.io/github/followers/Roygautam8852?label=&style=flat-square&color=blue) | |
-| 👤 **Following** | ![Following](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Roygautam8852&query=$.following&label=&style=flat-square&color=lightgrey) | |
-| 💻 **Main Focus** | Data Science, GenAI / RAG, Full Stack, DevOps | |
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
@@ -51,23 +62,32 @@ I keep **experimenting, learning, and building practical projects** on GitHub.
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,js,py,scala&theme=dark" alt="languages"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,js,ts,py,scala&theme=dark" alt="languages"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 ### 🌐 Web Development
 
 | Layer | Technologies |
 |---|---|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" align="center"/><br/>`HTML` • `CSS` • `JavaScript` • `React.js` • `Next.js` • `Tailwind CSS` • `Chart.js` |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" align="center"/><br/>`Node.js` • `Express.js` • `Flask` • `FastAPI` • `REST APIs` |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" align="center"/><br/>`MongoDB` • `MongoDB Atlas` • `SQL` • `MySQL Concepts` • `PostgreSQL` |
-| **Full Stack** | **MERN Stack:** `MongoDB` → `Express.js` → `React.js` → `Node.js` |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" align="center"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" align="center"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" align="center"/> <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=swagger&logoColor=white" align="center"/> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" align="center"/> <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" align="center"/> |
+| **Full Stack** | **MERN Stack:** <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" align="center"/> |
 
 ### 📊 Data Science & Machine Learning
 
-**Core Skills**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
+**Core skills:**
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-1f6feb?style=flat-square)
 ![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-1f6feb?style=flat-square)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-1f6feb?style=flat-square)
@@ -78,148 +98,174 @@ I keep **experimenting, learning, and building practical projects** on GitHub.
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-2ea44f?style=flat-square)
 ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-2ea44f?style=flat-square)
 
-**Libraries & Tools**
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
 ### 🤖 Generative AI & LLMs <sub>`NEW`</sub>
 
-<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-ff6f00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embeddings-Sentence%20Transformers-6a1b9a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20DB-ChromaDB-00b894?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hybrid%20Search-BM25%20%2B%20RRF-d63031?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reranking-Cross--Encoder-0984e3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-2d3436?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-ff6f00?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sentence%20Transformers-Embeddings-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-00b894?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/BM25%20%2B%20RRF-Hybrid%20Search-d63031?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cross--Encoder-Reranking-0984e3?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6e5494?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
 ### 🐘 Big Data
 
-| Ecosystem | Technologies |
-|---|---|
-| **Hadoop** | `HDFS` • `YARN` • `MapReduce` • `Hive` • `HBase` • `Sqoop` • `Flume` • `Pig` |
-| **Spark** | `Apache Spark` • `PySpark` • `Spark SQL` • `Data Processing` |
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
+<img src="https://img.shields.io/badge/HBase-B22222?style=for-the-badge&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark%20SQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+`HDFS` • `YARN` • `MapReduce` • `Sqoop` • `Flume` • `Pig` • `Data Processing`
 
 ### ⚙️ DevOps & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,jenkins,nginx,githubactions&theme=dark" alt="devops"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,jenkins,nginx,githubactions,vscode,postman&theme=dark" alt="devops"/>
 </p>
 
-| | |
-|---|---|
-| **Technologies** | `Git` • `GitHub` • `Docker` • `Docker Compose` • `Jenkins CI/CD` • `GitHub Actions` • `Linux` • `Nginx` • `Puppet` • `VMware` |
-| **Deployment** | `Netlify` • `Render` |
+<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 
 ### 📈 Data Analytics & Business Intelligence
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX-1f1f1f?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-`Power BI` • `DAX` • `Data Visualization` • `Dashboard Development` • `Data Analysis` • `Pandas` • `Matplotlib` • `Seaborn` • `Plotly`
+`Dashboard Development` • `Data Visualization` • `Data Analysis` • `Star Schema` • `KPIs`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Roygautam8852/Documind-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roygautam8852&repo=Documind-&theme=tokyonight&hide_border=true" width="48%"/></a>
-<a href="https://github.com/Roygautam8852/Heart-Disease-Prediction-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roygautam8852&repo=Heart-Disease-Prediction-System&theme=tokyonight&hide_border=true" width="48%"/></a>
-<a href="https://github.com/Roygautam8852/Farmer-crop-price-prediction-model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roygautam8852&repo=Farmer-crop-price-prediction-model&theme=tokyonight&hide_border=true" width="48%"/></a>
-<a href="https://github.com/Roygautam8852/Student_Task_Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Roygautam8852&repo=Student_Task_Manager&theme=tokyonight&hide_border=true" width="48%"/></a>
+### 📄 DocuMind <sub>`NEW`</sub>
+**RAG-based Document Intelligence System**
 
-</div>
+Upload PDF, DOCX or TXT files, then search, chat with and summarize them. Uses **hybrid retrieval** (vector search + BM25 fused with RRF), optional **cross-encoder reranking** and **citation validation**. If the evidence is weak, it says so instead of guessing. Can also compare 2 to 10 documents.
 
-### 📄 DocuMind: RAG-based Document Intelligence System <sub>`NEW`</sub>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-00b894?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-A self-hostable app to **upload, search, chat with and summarize** PDF, DOCX and TXT files. Answers come with **citations** to the exact source passages, and the system **abstains** when the evidence is weak.
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Roygautam8852/Documind-)
+
+</td>
+<td width="50%" valign="top">
+
+### ❤️ Heart Disease Prediction
+**End-to-end Machine Learning System**
+
+Predicts heart disease from **10,000+ patient records**. Full pipeline: data cleaning, EDA, feature engineering, then **8 classification models** compared on Accuracy, Precision, Recall, F1, ROC-AUC and 5-fold cross-validation. Served through a **Streamlit app** with a confidence score.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Roygautam8852/Heart-Disease-Prediction-System)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 Farmer Crop Price Predictor
+**AI-powered Price Prediction Platform**
+
+Helps Indian farmers estimate the future **modal market price** and a min–max range for crops like rice, wheat, tomato, onion, potato and maize. A **Random Forest** model (compared with Linear Regression) sits behind a React + Node API, with predictions saved in MongoDB. Ships with **Docker**, **GitHub Actions** CI and **Jenkins** CD.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Roygautam8852/Farmer-crop-price-prediction-model)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Student Record Manager
+**Digital School Register & Attendance Platform**
+
+Digitizes traditional school register workflows: **student and class management**, **attendance tracking with analytics**, **marks management**, **charts and visualization**, **student profiles** and **authentication**.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+<!-- Add Live Demo link: [![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://YOUR-DEMO-LINK) -->
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Roygautam8852/Student_Task_Manager)
+
+</td>
+</tr>
+</table>
+
+### 🧬 How DocuMind works
 
 ```mermaid
-flowchart LR
-    A["📄 Upload PDF / DOCX / TXT"] --> B["Parse + Chunk"]
-    B --> C["Embeddings<br/>Sentence Transformers"]
-    C --> D[("ChromaDB")]
-    Q["❓ User Question"] --> R["Hybrid Retrieval<br/>Vector + BM25 + RRF"]
+flowchart TB
+    subgraph ING["📥 Ingestion"]
+        direction LR
+        A["Upload<br/>PDF / DOCX / TXT"] --> B["Parse +<br/>Chunk"] --> C["Embeddings"] --> D[("ChromaDB")]
+    end
+    subgraph QRY["💬 Question Answering"]
+        direction LR
+        Q["User<br/>Question"] --> R["Hybrid Retrieval<br/>Vector + BM25 + RRF"] --> RR["Rerank"] --> L["Gemini LLM"] --> O["Answer +<br/>Citations"]
+    end
     D --> R
-    R --> RR["Reranker"]
-    RR --> L["Gemini LLM"]
-    L --> V["Citation Validation"]
-    V --> O["✅ Answer with Sources"]
+    classDef a fill:#1f6feb,color:#fff,stroke:#0d419d
+    classDef b fill:#8957e5,color:#fff,stroke:#5a32a3
+    class A,B,C,D a
+    class Q,R,RR,L,O b
 ```
 
-**Highlights:** hybrid search (dense + BM25 with Reciprocal Rank Fusion) • query reformulation for follow-ups • cross-encoder reranking • citation validation • abstention to reduce hallucination • multi-document comparison • JWT auth • Docker Compose
-
-**Technology:** `Python` `FastAPI` `LLMs (Gemini)` `Sentence Transformers` `ChromaDB` `BM25` `PostgreSQL` `React` `TypeScript` `Docker`
-
-🔗 [GitHub Repository](https://github.com/Roygautam8852/Documind-)
-
----
-
-### ❤️ Heart Disease Prediction System
-
-A structured **Machine Learning** project that predicts heart disease from patient health data (10,000+ records), compares **8 classification models** and serves predictions with a confidence score through a **Streamlit** app.
+### ❤️ Heart Disease pipeline
 
 ```mermaid
 flowchart LR
     A[Data] --> B[Preprocessing] --> C[EDA] --> D[Feature Engineering] --> E[Model Training] --> F[Model Evaluation] --> G[Prediction]
+    classDef n fill:#da3633,color:#fff,stroke:#8e1519
+    class A,B,C,D,E,F,G n
 ```
-
-**Technology:** `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Streamlit` `Jupyter Notebook`
-
-🔗 [GitHub Repository](https://github.com/Roygautam8852/Heart-Disease-Prediction-System)
-
----
-
-### 🌾 Farmer Crop Price Prediction Model
-
-An **AI-powered crop price prediction platform** for Indian farmers. A **Random Forest** regression model (compared against Linear Regression) predicts the modal market price and an estimated min–max range from crop, state, month, year and season. Predictions are stored in **MongoDB**, and the stack ships with **Docker**, **GitHub Actions** (CI) and **Jenkins** (CD).
-
-**Technology:** `Python` `Scikit-learn` `Random Forest` `React` `Node.js` `Express.js` `MongoDB` `Docker` `Jenkins` `GitHub Actions`
-
-🔗 [GitHub Repository](https://github.com/Roygautam8852/Farmer-crop-price-prediction-model)
-
----
-
-### 📚 Student Record Manager
-
-A student management and attendance platform designed to **digitize traditional school register workflows**.
-
-| | | | |
-|---|---|---|---|
-| 👨‍🎓 Student Management | 🏫 Class Management | 🟢 Attendance Tracking | 📊 Attendance Analytics |
-| 📝 Marks Management | 📈 Charts & Visualization | 👤 Student Profiles | 🔐 Authentication |
-
-**Technology:** `React` `JavaScript` `Chart.js` `Node.js`
-
-<!-- 🌐 Add your Live Demo link here: [Live Demo](https://your-demo-link) -->
-🔗 [Student Task Manager Repository](https://github.com/Roygautam8852/Student_Task_Manager)
-
----
 
 ### 📦 More Projects
 
-| Project | Description | Technology | Link |
+| Project | What it does | Technology | Link |
 |---|---|---|---|
-| ⚡ **Electricity Fault Detection** | Detects electricity-related faults using software / data-driven techniques. | `JavaScript` | [Repo](https://github.com/Roygautam8852?tab=repositories&q=electricity) |
-| 🏆 **Hackethon Management System** | Web-based system for managing hackathon-related activities and workflows. | `JavaScript` | [Repo](https://github.com/Roygautam8852?tab=repositories&q=hack) |
-| 📊 **Samsung Supply Chain & Logistics Dashboard** | Power BI dashboard on supply chain, inventory, shipments and customers, built with a Star Schema and DAX KPIs. Includes a supplier page comparing 7 suppliers on cost, quality and delivery time. | `Power BI` `DAX` `Data Modeling` | [Repo](https://github.com/Roygautam8852?tab=repositories&q=samsung) |
+| 📊 **Samsung Supply Chain & Logistics Dashboard** | Power BI dashboard on supply chain, inventory, shipments and customers. Built with a Star Schema and DAX KPIs, with a supplier page that compares 7 suppliers on cost, quality and delivery time. | `Power BI` `DAX` `Data Modeling` | [Repo](https://github.com/Roygautam8852?tab=repositories&q=samsung) |
+| 🚗 **Car Sales Analysis & Prediction** | End-to-end ML project on 23,000+ car sales records: cleaning, EDA, KPI analysis, IQR outlier removal (~800 rows), one-hot encoding and a Random Forest price model (R² ≈ 0.65). | `Python` `Pandas` `Scikit-learn` `Jupyter` | [Repo](https://github.com/Roygautam8852?tab=repositories&q=car) |
+| ⚡ **Electricity Fault Detection** | Detects electricity-related faults using software and data-driven techniques. | `JavaScript` | [Repo](https://github.com/Roygautam8852?tab=repositories&q=electricity) |
 | 🇮🇳 **India Crime Analytics & Prediction System** | Data-driven analytics and prediction project focused on crime-related information. | `JavaScript` | [Repo](https://github.com/Roygautam8852?tab=repositories&q=crime) |
-| 🚗 **Car Sales Analysis & Prediction** | End-to-end ML project: data cleaning, EDA, KPI analysis, visualization, feature engineering and regression modeling on 23,000+ records (IQR outlier removal, Random Forest, R² ≈ 0.65). | `Python` `Pandas` `NumPy` `Scikit-learn` `Jupyter` | [Repo](https://github.com/Roygautam8852?tab=repositories&q=car) |
-| 🏥 **Hospital Appointment System** | Web-based application for managing hospital appointment workflows. | `JavaScript` | [Repo](https://github.com/Roygautam8852/Hospital-Appointment-System) |
-| 🔄 **SyncSpace** | Web application focused on collaborative / interactive functionality. | `JavaScript` | [Repo](https://github.com/Roygautam8852?tab=repositories&q=syncspace) |
-| 🐳 **Docker Class Work** | Hands-on DevOps and containerization practice with Docker concepts and workflows. | `Docker` | [Repo](https://github.com/Roygautam8852/Docker-class-work) |
-| ⚙️ **GitHub Jenkins** | Hands-on work integrating GitHub and Jenkins with CI/CD concepts. | `Jenkins` `GitHub` | [Repo](https://github.com/Roygautam8852/github-jenkins) |
+| 🏆 **Hackethon Management System** | Web-based system for managing hackathon activities and workflows. | `JavaScript` | [Repo](https://github.com/Roygautam8852?tab=repositories&q=hack) |
+| 🏥 **Hospital Appointment System** | Web application for managing hospital appointment workflows. | `JavaScript` | [Repo](https://github.com/Roygautam8852/Hospital-Appointment-System) |
+| 🔄 **SyncSpace** | Web application focused on collaborative and interactive functionality. | `JavaScript` | [Repo](https://github.com/Roygautam8852?tab=repositories&q=syncspace) |
+| 🐳 **Docker Class Work** | Hands-on DevOps practice with containers: Docker concepts and workflows. | `Docker` | [Repo](https://github.com/Roygautam8852/Docker-class-work) |
+| ⚙️ **GitHub Jenkins** | Hands-on integration of GitHub and Jenkins with CI/CD concepts. | `Jenkins` `GitHub` | [Repo](https://github.com/Roygautam8852/github-jenkins) |
 
-### 💻 MERN & Web Development Projects
+<details>
+<summary><b>💻 MERN & Web Development Projects</b> (click to expand)</summary>
+
+<br/>
 
 | Project | Focus |
 |---|---|
@@ -235,100 +281,93 @@ A student management and attendance platform designed to **digitize traditional 
 | 👨‍🎓 [Student-record-api](https://github.com/Roygautam8852/Student-record-api) | Backend / API |
 | 🏥 [Hospital-Appointment-System](https://github.com/Roygautam8852/Hospital-Appointment-System) | Web Application |
 
-### 📊 Data & Analytics Projects
+</details>
 
-🚗 Car Sales Analysis & Prediction &nbsp;•&nbsp; ❤️ Heart Disease Prediction System &nbsp;•&nbsp; 🇮🇳 India Crime Analytics & Prediction &nbsp;•&nbsp; 🌾 Farmer Crop Price Prediction &nbsp;•&nbsp; 📦 Samsung Supply Chain & Logistics Dashboard &nbsp;•&nbsp; 🦠 COVID-19 Dashboard &nbsp;•&nbsp; 📊 Insurance Claims Analysis &nbsp;•&nbsp; 🐘 Big Data Classwork &nbsp;•&nbsp; 📄 DocuMind (RAG)
+<details>
+<summary><b>📊 Data & Analytics Projects</b> and <b>🔧 DevOps Projects</b> (click to expand)</summary>
 
-### 🔧 DevOps Projects
+<br/>
 
-My GitHub also includes hands-on DevOps work with:
+**Data & Analytics:** 🚗 Car Sales Analysis & Prediction • ❤️ Heart Disease Prediction System • 🇮🇳 India Crime Analytics & Prediction • 🌾 Farmer Crop Price Prediction • 📦 Samsung Supply Chain & Logistics Dashboard • 🦠 COVID-19 Dashboard • 📊 Insurance Claims Analysis • 🐘 Big Data Classwork • 📄 DocuMind (RAG)
 
-🐳 Docker &nbsp;•&nbsp; 🔄 Docker Compose &nbsp;•&nbsp; ⚙️ Jenkins &nbsp;•&nbsp; 🚀 GitHub Actions &nbsp;•&nbsp; 🐧 Linux &nbsp;•&nbsp; 🌐 Nginx &nbsp;•&nbsp; 🎛️ Puppet &nbsp;•&nbsp; 🖥️ VMware &nbsp;•&nbsp; ☁️ Deployment
+**DevOps:** 🐳 Docker • 🔄 Docker Compose • ⚙️ Jenkins • 🚀 GitHub Actions • 🐧 Linux • 🌐 Nginx • 🎛️ Puppet • 🖥️ VMware • ☁️ Deployment
 
 **Related repositories:** [GitHubActions](https://github.com/Roygautam8852/GitHubActions) • [github-jenkins](https://github.com/Roygautam8852/github-jenkins) • [Docker-class-work](https://github.com/Roygautam8852/Docker-class-work)
 
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-## 🧠 Data Structures & Algorithms
-
-Currently strengthening my problem-solving skills with:
-
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Hashing` • `Heaps` • `Binary Trees` • `BST` • `Graphs` • `BFS` • `DFS` • `Dijkstra` • `Floyd-Warshall` • `Prim` • `Kruskal` • `Dynamic Programming` • `Greedy`
-
-### 🏆 Overall Problem Solving (Codolio)
+## 🧠 Problem Solving & DSA
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Solved-522-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-295-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Competitive%20Programming-208-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Active%20Days-230-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Max%20Streak-33%20Days-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Total%20Solved-524-238636?style=for-the-badge&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/DSA-297-1f6feb?style=for-the-badge&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Competitive%20Programming-208-f0883e?style=for-the-badge&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Active%20Days-231-8957e5?style=for-the-badge&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Max%20Streak-33%20Days-da3633?style=for-the-badge&labelColor=161b22"/>
 
 <br/><br/>
 
-<a href="https://codolio.com/profile/gautamkumar8252"><img src="https://img.shields.io/badge/Codolio-View%20Profile-FF8C00?style=for-the-badge" alt="Codolio"/></a>
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
+<a href="https://leetcode.com/u/gautamkumar80004/">
+  <img src="https://leetcard.jacoblin.cool/gautamkumar80004?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="560"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LeetCode-238-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/CodeChef-207-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-14-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-5-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-1-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
 <img src="https://img.shields.io/badge/InterviewBit-0B6FDE?style=flat-square"/>
 
 </div>
 
 ```mermaid
-pie showData title DSA Problems by Difficulty (295)
-    "Easy" : 143
+pie showData title DSA Problems by Difficulty (297)
+    "Easy" : 145
     "Medium" : 135
     "Hard" : 17
 ```
 
-**Top topics:** Arrays (128) • Strings (46) • HashMap & Set (44) • Two Pointers (41) • Sorting (38) • Binary Search (37) • Trees (35)
-
-### 🧠 LeetCode & Problem Solving
-
-I actively practice Data Structures & Algorithms on LeetCode to strengthen my problem-solving and competitive programming skills.
-
-#### 🏆 200+ Problems Solved
-
-| 🟢 Easy | 🟡 Medium | 🔴 Hard | 📝 Total Solved |
-|:---:|:---:|:---:|:---:|
-| **93** | **94** | **13** | **200** |
-
-| 📊 Submissions | 📅 Active Days | 🔥 Max Streak | 🏅 Badges |
-|:---:|:---:|:---:|:---:|
-| **384** | **179** | **33 Days** | **2** |
-
 ```text
-📈 My LeetCode Progress
-Problems Solved       : 200
-Easy                  : 93
-Medium                : 94
-Hard                  : 13
-
-Submissions (1 Year)  : 384
-Active Days           : 179
-Maximum Streak        : 33 Days
-
-Achievement           : 🏅 100 Days Badge 2026
+📊 Top DSA topics
+Arrays          ████████████████████ 130
+String          ███████              46
+HashMap & Set   ██████▌              44
+Two Pointers    ██████▌              41
+Sorting         ██████               39
+Binary Search   █████▌               37
+Trees           █████▌               35
+Algorithms      █████▌               35
 ```
 
+### 🏆 LeetCode at a glance
+
+| 🧮 Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | 📊 Submissions (1 yr) | 📅 Active Days | 🔥 Max Streak | 🏅 Badges |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **238** | **111** | **111** | **16** | **521** | **210** | **33 Days** | **2** |
+
 <img src="https://img.shields.io/badge/LeetCode-100%20Days%20Badge%202026-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-50%20Days%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 <img src="https://img.shields.io/badge/HackerRank-C%2B%2B%20Badge-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+**Topics I practice:** `Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Hashing` • `Heaps` • `Binary Trees` • `BST` • `Graphs` • `BFS` • `DFS` • `Dijkstra` • `Floyd-Warshall` • `Prim` • `Kruskal` • `Dynamic Programming` • `Greedy`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-## 🎓 Certifications & Achievements <sub>`NEW`</sub>
+## 🎓 Certifications & Achievements
 
 | Certificate / Achievement | Issuer | When |
 |---|---|---|
 | 🖥️ Introduction to Operating Systems | IBM (Coursera) | Sep 2024 |
 | 🌐 Fundamentals of Computer Network | University of Colorado (Coursera) | Nov 2024 |
 | ☁️ Cloud Computing | NPTEL | Apr 2025 |
-| 📊 Basics of Data Analytics | Physics Wallah × Microsoft | Jun 2026 |
-| 💼 Data Analyst Virtual Internship (Job Simulation) | Deloitte | Mar 2026 |
 | 🧮 Mastering Data Structures and Algorithms (Training) | Lovely Professional University | Jun – Jul 2025 |
+| 💼 Data Analyst Virtual Internship (Job Simulation) | Deloitte | Mar 2026 |
+| 📊 Basics of Data Analytics | Physics Wallah × Microsoft | Jun 2026 |
 
 ## 📈 GitHub Statistics
 
@@ -351,7 +390,7 @@ Achievement           : 🏅 100 Days Badge 2026
 
 <br/><br/>
 
-<!-- Snake animation: needs the snake.yml workflow (see setup notes) -->
+<!-- Snake animation: needs the snake.yml workflow to have run once -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Roygautam8852/Roygautam8852/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Roygautam8852/Roygautam8852/output/github-snake.svg"/>
@@ -381,13 +420,15 @@ Achievement           : 🏅 100 Days Badge 2026
 ## 🗺️ My Learning Journey
 
 ```mermaid
-flowchart TD
-    A["💻 Programming<br/>C / C++ / Java / Python / C#"] --> B["🌐 Web Development<br/>HTML, CSS, JavaScript<br/>React, Next.js<br/>Node.js, Express, Flask"]
-    B --> C["📊 Data Science & ML<br/>Pandas, NumPy<br/>EDA, Visualization<br/>Scikit-learn"]
-    C --> G["🤖 Generative AI<br/>LLMs, Embeddings<br/>RAG, Vector DBs"]
-    G --> D["🐘 Big Data<br/>Hadoop<br/>Hive / HBase<br/>Spark / PySpark"]
-    D --> E["⚙️ DevOps<br/>Linux, Git / GitHub<br/>Docker, Jenkins, Puppet"]
-    E --> F["☁️ Cloud & Software Engineering"]
+flowchart LR
+    A["💻 Programming<br/>C / C++ / Java<br/>Python / C#"] --> B["🌐 Web Dev<br/>HTML, CSS, JS<br/>React, Next.js<br/>Node, Express, Flask"]
+    B --> C["📊 Data Science & ML<br/>Pandas, NumPy<br/>EDA, Scikit-learn"]
+    C --> G["🤖 GenAI<br/>LLMs, Embeddings<br/>RAG, Vector DBs"]
+    G --> D["🐘 Big Data<br/>Hadoop, Hive<br/>Spark / PySpark"]
+    D --> E["⚙️ DevOps<br/>Linux, Docker<br/>Jenkins, Puppet"]
+    E --> F["☁️ Cloud &<br/>Software Eng."]
+    classDef s fill:#0d419d,color:#fff,stroke:#1f6feb
+    class A,B,C,G,D,E,F s
 ```
 
 ## 🎯 Goals
@@ -408,15 +449,16 @@ flowchart TD
 <div align="center">
 
 <a href="https://github.com/Roygautam8852"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gautam-kumar-roy/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gautam-kumar-roy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gautamkumar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Roygautam8852/Personal_Website"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://leetcode.com/u/gautamkumar80004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://codolio.com/profile/gautamkumar8252"><img src="https://img.shields.io/badge/Codolio-FF8C00?style=for-the-badge"/></a>
+<a href="https://github.com/Roygautam8852/Personal_Website"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=F7B731&center=true&vCenter=true&width=520&lines=Code.+Learn.+Build.+Improve.+%F0%9F%9A%80;Thanks+for+visiting+my+profile!+%E2%AD%90" alt="footer typing"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2C5364,50:203A43,100:0F2027&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:2C5364,50:203A43,100:0F2027&section=footer" width="100%"/>
 
 </div>
